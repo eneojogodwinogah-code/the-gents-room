@@ -17,6 +17,6 @@ link.addEventListener("click",function(){
     navLinks.classList.remove("active");
     menuToggle.setAttribute("aria-expanded", "false");
     menuToggle.textContent="☰";
-    setAttribute("aria-label", "Open navigation menu");
+    menuToggle.setAttribute("aria-label", "Open navigation menu");
 });
 });
