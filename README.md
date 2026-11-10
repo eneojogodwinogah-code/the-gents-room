@@ -3,6 +3,9 @@
 A responsive barbershop website built with HTML, CSS and JavaScript.
 
 **Live Demo:** https://the-gents-room.netlify.app/
+## Preview
+
+![The Gent's Room Homepage](screenshot.png)
 
 ## About the Project
 
